@@ -29,11 +29,17 @@ Recent work spans quadruped robot localization, image super-resolution on edge A
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <sub>FEATURED · FIELD ROBOTICS</sub>
       <h3><a href="https://github.com/DylanYeung0929/quadruped-field-localization">Quadruped Field Localization ↗</a></h3>
       <p>A ROS 2 source and configuration collection for quadruped robot field localization: MID-360 LiDAR and Hipnuc IMU/GNSS drivers, FAST-LIO2 odometry and mapping, and NDT localization against a known map.</p>
       <sub>ROS 2 · C++ · LiDAR · LOCALIZATION</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>RESEARCH ARCHIVE · HYBRID LEARNING</sub>
+      <h3><a href="https://github.com/DylanYeung0929/quantum-research">Quantum Research ↗</a></h3>
+      <p>Classical neural network baselines and hybrid quantum–classical research materials for air quality classification and medical insurance cost regression.</p>
+      <sub>NEURAL NETWORKS · QUANTUM MACHINE LEARNING</sub>
     </td>
   </tr>
 </table>
@@ -82,11 +88,17 @@ More to explore: [mathematical modeling](https://github.com/DylanYeung0929/2026b
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <sub>重点项目 · 场地机器人</sub>
       <h3><a href="https://github.com/DylanYeung0929/quadruped-field-localization">四足机器人场地定位 ↗</a></h3>
       <p>汇集四足机器人场地定位所需的 ROS 2 源码与配置：MID-360 激光雷达和 Hipnuc IMU/GNSS 驱动、FAST-LIO2 里程计与建图，以及基于已知地图的 NDT 定位。</p>
       <sub>ROS 2 · C++ · 激光雷达 · 定位</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>研究归档 · 混合机器学习</sub>
+      <h3><a href="https://github.com/DylanYeung0929/quantum-research">量子机器学习研究 ↗</a></h3>
+      <p>空气质量四分类与医疗保险费用回归的经典神经网络基线、量子—经典混合模型报告及实验记录。</p>
+      <sub>神经网络 · 量子机器学习</sub>
     </td>
   </tr>
 </table>
