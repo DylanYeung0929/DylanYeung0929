@@ -5,7 +5,8 @@
 # Building intelligence that can see, sense & act.
 
 北京理工大学 · 机器人工程 / Robotics Engineering @ BIT<br>
-机器人感知 · 场地定位 · 边缘 AI / Perception · Localization · Edge AI
+机器人感知·三维重建·强化学习·边缘 AI<br>
+Robot Perception · 3D Reconstruction · Reinforcement Learning · Edge AI
 
 <a href="https://haocheng-homepage-v2.pages.dev/">个人网站 / Portfolio</a> · <a href="https://github.com/DylanYeung0929?tab=repositories">全部项目 / All projects</a>
 
