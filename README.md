@@ -1,10 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
-  <img alt="DylanYeung0929's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;hide_border=true" />
-</picture>
-
 ### HAOCHENG YANG · 杨昊诚
 
 # Building intelligence that can see, sense & act.
@@ -155,5 +150,10 @@ More to explore: [mathematical modeling](https://github.com/DylanYeung0929/2026b
 
 *保持好奇，持续创造。 / Stay curious, keep creating.*<br>
 [访问个人网站 / Visit my portfolio ↗](https://haocheng-homepage-v2.pages.dev/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
+  <img alt="DylanYeung0929's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;hide_border=true" />
+</picture>
 
 </div>
