@@ -1,26 +1,56 @@
 <div align="center">
 
-# 楊昊誠 · Dylan Yeung
+### HAOCHENG YANG · 杨昊诚
 
-*stay curious, keep creating.*
+# Building intelligence that can see, sense & act.
+
+Robotics Engineering @ Beijing Institute of Technology<br>
+Robot perception · Edge AI · 3D reconstruction
+
+<a href="https://haocheng-homepage-v2.pages.dev/">Portfolio</a> · <a href="https://github.com/DylanYeung0929?tab=repositories">Projects</a>
 
 </div>
 
-Third-year Robotics Engineering student at Beijing Institute of Technology, working on embodied AI — robot perception (vision & tactile), embedded systems, reinforcement learning and neural networks.
-
-**Now:** bringing super-resolution models onto edge AI hardware · exploring 3D reconstruction.
-
 ---
 
-## Selected Projects
+### A little about me
 
-- **[SwinIR on AirBox](https://github.com/DylanYeung0929/SwinIR-AirBox-SuperResolution)** — SwinIR image super-resolution deployed on SOPHON BM1684X edge hardware; baseline pipeline plus DVFS-adaptive innovations.
-- **[PGSR Reconstruction](https://github.com/DylanYeung0929/PGSR-reconstruction)** — Experiments and reproduction scripts for PGSR-based 3D reconstruction.
-- **[Portfolio v2](https://github.com/DylanYeung0929/haocheng-homepage-v2)** — Dark editorial personal site with six sections and a photo curation backend.
-- **[Tipsy Imprint](https://github.com/DylanYeung0929/tipsy-imprint-web)** — Interactive product site: coaster sensing × generative AI.
-- **[Math Modeling](https://github.com/DylanYeung0929/2026bit_math_model)** — Competition papers and code (team project).
+I'm a third-year Robotics Engineering student at Beijing Institute of Technology. I work across robot perception (vision and tactile sensing), embedded systems, reinforcement learning, and neural networks.
 
-## Toolbox
+Right now, I'm bringing image super-resolution to edge AI hardware and exploring 3D reconstruction.
+
+### Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/SwinIR-AirBox-SuperResolution">SwinIR on AirBox ↗</a></h3>
+      <p>Image super-resolution on SOPHON BM1684X edge hardware, from a baseline deployment pipeline to DVFS-adaptive experiments.</p>
+      <sub>EDGE AI · COMPUTER VISION</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/PGSR-reconstruction">PGSR Reconstruction ↗</a></h3>
+      <p>Experiments and reproduction scripts for PGSR-based 3D reconstruction.</p>
+      <sub>3D VISION · RESEARCH</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/haocheng-homepage-v2">Portfolio v2 ↗</a></h3>
+      <p>A dark editorial personal site with six sections and a photo curation backend.</p>
+      <sub>REACT · TYPESCRIPT</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-web">Tipsy Imprint ↗</a></h3>
+      <p>An interactive product site connecting coaster sensing with generative AI.</p>
+      <sub>INTERACTIVE WEB · GENERATIVE AI</sub>
+    </td>
+  </tr>
+</table>
+
+More to explore: [mathematical modeling](https://github.com/DylanYeung0929/2026bit_math_model) · [all repositories](https://github.com/DylanYeung0929?tab=repositories)
+
+### Tools I reach for
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -30,6 +60,11 @@ Third-year Robotics Engineering student at Beijing Institute of Technology, work
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-## Elsewhere
+<div align="center">
 
-[haocheng-homepage-v2.pages.dev](https://haocheng-homepage-v2.pages.dev/)
+---
+
+*Stay curious, keep creating.*<br>
+[Visit my portfolio ↗](https://haocheng-homepage-v2.pages.dev/)
+
+</div>
