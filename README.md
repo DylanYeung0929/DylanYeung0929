@@ -71,7 +71,7 @@ Recent work spans quadruped robot localization, image super-resolution on edge A
   </tr>
 </table>
 
-More to explore: [mathematical modeling](https://github.com/DylanYeung0929/2026bit_math_model) · [all repositories](https://github.com/DylanYeung0929?tab=repositories)
+More to explore: [mathematical modeling](#mathematical-modeling) · [all repositories](https://github.com/DylanYeung0929?tab=repositories)
 
 </details>
 
@@ -130,9 +130,29 @@ More to explore: [mathematical modeling](https://github.com/DylanYeung0929/2026b
   </tr>
 </table>
 
-继续了解：[数学建模](https://github.com/DylanYeung0929/2026bit_math_model) · [全部仓库](https://github.com/DylanYeung0929?tab=repositories)
+继续了解：[数学建模](#mathematical-modeling) · [全部仓库](https://github.com/DylanYeung0929?tab=repositories)
 
 </details>
+
+### 研究导航 / Research Map
+
+| 方向 / Focus | 项目入口 / Explore |
+| --- | --- |
+| 机器人感知与嵌入式 / Robot perception & embedded systems | [四足场地定位 · ROS 2, LiDAR, FAST-LIO2, NDT](https://github.com/DylanYeung0929/quadruped-field-localization) |
+| 三维重建 / 3D reconstruction | [PGSR · Reconstruction experiments](https://github.com/DylanYeung0929/PGSR-reconstruction) |
+| 神经网络与边缘 AI / Neural networks & edge AI | [SwinIR on AirBox · Super-resolution deployment](https://github.com/DylanYeung0929/SwinIR-AirBox-SuperResolution) |
+| 量子—经典混合学习 / Hybrid quantum–classical learning | [Quantum Research · Classification & regression](https://github.com/DylanYeung0929/quantum-research) |
+
+### Mathematical Modeling
+
+数学建模项目 / Modeling projects — papers, code & analysis
+
+| 项目 / Project | 方法与主题 / Methods & topic |
+| --- | --- |
+| [中国碳达峰路径 / Carbon Peak Pathway](https://github.com/DylanYeung0929/carbon-peak-pathway) | 驱动机制识别与多情景预测 / Driver identification & scenario forecasting |
+| [良乡空气质量 / Liangxiang Air Quality](https://github.com/DylanYeung0929/liangxiang-air-quality) | 滞后效应、稀疏 VAR 与 AQI 活动建议 / Lag effects, sparse VAR & activity advice |
+| [电火花工艺优化 / EDM Process Optimization](https://github.com/DylanYeung0929/edm-process-optimization) | 特征关系、分类器链与双模型预测 / Feature analysis, classifier chains & dual-model prediction |
+| [钢缆溜索设计 / Zipline Safety Design](https://github.com/DylanYeung0929/zipline-safety-design) | 弹性悬链线、多目标优化与蒙特卡洛分析 / Elastic catenary, multi-objective optimization & Monte Carlo analysis |
 
 ### 技术栈 / Toolbox
 
@@ -144,16 +164,31 @@ More to explore: [mathematical modeling](https://github.com/DylanYeung0929/2026b
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
+### 联系我 / Connect
+
+[个人网站 / Portfolio ↗](https://haocheng-homepage-v2.pages.dev/) · [邮箱 / Email ↗](mailto:dylanyeung0929@gmail.com) · [全部仓库 / Repositories ↗](https://github.com/DylanYeung0929?tab=repositories)
+
+### 开发动态 / GitHub Activity
+
 <div align="center">
-
----
-
-*保持好奇，持续创造。 / Stay curious, keep creating.*<br>
-[访问个人网站 / Visit my portfolio ↗](https://haocheng-homepage-v2.pages.dev/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
-  <img alt="DylanYeung0929's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;hide_border=true" />
+  <img width="49%" alt="DylanYeung0929's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;hide_border=true" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;theme=github_dark&amp;hide_border=true" />
+  <img width="49%" alt="Repository language distribution" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;hide_border=true" />
+</picture>
+
+<sub>仓库代码语言分布 / Language distribution across repositories</sub>
+
+<br><br>
+
+<a href="https://github.com/DylanYeung0929?tab=overview">
+  <img width="100%" src="https://ghchart.rshah.org/0f766e/DylanYeung0929" alt="DylanYeung0929's GitHub contribution calendar" />
+</a>
+
+*保持好奇，持续创造。 / Stay curious, keep creating.*
 
 </div>
