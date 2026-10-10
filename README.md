@@ -5,7 +5,7 @@
 # Building intelligence that can see, sense & act.
 
 北京理工大学 · 机器人工程 / Robotics Engineering @ BIT<br>
-机器人感知 · 边缘 AI · 三维重建 / Perception · Edge AI · 3D Reconstruction
+机器人感知 · 场地定位 · 边缘 AI / Perception · Localization · Edge AI
 
 <a href="https://haocheng-homepage-v2.pages.dev/">个人网站 / Portfolio</a> · <a href="https://github.com/DylanYeung0929?tab=repositories">全部项目 / All projects</a>
 
@@ -18,11 +18,22 @@
 
 ### A little about me
 
-I'm a third-year Robotics Engineering student at Beijing Institute of Technology. I work across robot perception (vision and tactile sensing), embedded systems, reinforcement learning, and neural networks.
+I'm a third-year Robotics Engineering student at Beijing Institute of Technology. I work across robot perception (vision, tactile sensing, and LiDAR), embedded systems, reinforcement learning, and neural networks.
 
-Right now, I'm bringing image super-resolution to edge AI hardware and exploring 3D reconstruction.
+Recent work spans quadruped robot localization, image super-resolution on edge AI hardware, and 3D reconstruction.
 
 ### Selected work
+
+<table>
+  <tr>
+    <td valign="top">
+      <sub>FEATURED · FIELD ROBOTICS</sub>
+      <h3><a href="https://github.com/DylanYeung0929/quadruped-field-localization">Quadruped Field Localization ↗</a></h3>
+      <p>A ROS 2 source and configuration collection for quadruped robot field localization: MID-360 LiDAR and Hipnuc IMU/GNSS drivers, FAST-LIO2 odometry and mapping, and NDT localization against a known map.</p>
+      <sub>ROS 2 · C++ · LiDAR · LOCALIZATION</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -60,11 +71,22 @@ More to explore: [mathematical modeling](https://github.com/DylanYeung0929/2026b
 
 ### 关于我
 
-我是北京理工大学机器人工程专业大三学生，关注机器人视觉与触觉感知、嵌入式系统、强化学习和神经网络。
+我是北京理工大学机器人工程专业大三学生，关注机器人视觉、触觉与激光雷达感知，以及嵌入式系统、强化学习和神经网络。
 
-目前正在探索图像超分辨率模型在边缘 AI 硬件上的部署，以及三维重建。
+近期项目涵盖四足机器人场地定位、图像超分辨率模型的边缘 AI 部署，以及三维重建。
 
 ### 精选项目
+
+<table>
+  <tr>
+    <td valign="top">
+      <sub>重点项目 · 场地机器人</sub>
+      <h3><a href="https://github.com/DylanYeung0929/quadruped-field-localization">四足机器人场地定位 ↗</a></h3>
+      <p>汇集四足机器人场地定位所需的 ROS 2 源码与配置：MID-360 激光雷达和 Hipnuc IMU/GNSS 驱动、FAST-LIO2 里程计与建图，以及基于已知地图的 NDT 定位。</p>
+      <sub>ROS 2 · C++ · 激光雷达 · 定位</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
