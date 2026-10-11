@@ -205,12 +205,12 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" />
-  <img width="49%" alt="DylanYeung0929's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;v=1" />
+  <img width="49%" alt="DylanYeung0929's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;hide_border=true&amp;v=1" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;theme=github_dark&amp;hide_border=true" />
-  <img width="49%" alt="Repository language distribution" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;theme=github_dark&amp;hide_border=true&amp;v=1" />
+  <img width="49%" alt="Repository language distribution" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;hide_border=true&amp;v=1" />
 </picture>
 
 <sub>仓库代码语言分布 / Language distribution across repositories</sub>
@@ -218,7 +218,7 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 <br><br>
 
 <a href="https://github.com/DylanYeung0929?tab=overview">
-  <img width="100%" src="https://ghchart.rshah.org/0f766e/DylanYeung0929" alt="DylanYeung0929's GitHub contribution calendar" />
+  <img width="100%" src="https://ghchart.rshah.org/0f766e/DylanYeung0929?v=1" alt="DylanYeung0929's GitHub contribution calendar" />
 </a>
 
 *保持好奇，持续创造。 / Stay curious, keep creating.*
