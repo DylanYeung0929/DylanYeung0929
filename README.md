@@ -267,23 +267,35 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 
 ### 开发动态 / GitHub Activity
 
+近期更新 / Recent updates · 2026-10-28
+
+| 项目 / Project | 更新 / Update |
+| --- | --- |
+| [Linglong Robot Toolkit](https://github.com/DylanYeung0929/linglong-robot-toolkit) | 发布独立的离线轨迹规划、反馈检查与合成数据演示 / Published offline planning, feedback checks and synthetic demos |
+| [DSH Session Bridge](https://github.com/DylanYeung0929/dsh-session-bridge) | 整理跨会话工具的 GitHub Actions 配置 / Organized the session tool's GitHub Actions configuration |
+| [公开仓库授权 / Public repository licensing](https://github.com/DylanYeung0929/portfolio-framework/commit/b36bd5a) | 为 10 个仓库补充 MIT 许可证与原创内容适用范围说明 / Added MIT licenses and original-content scope notices to 10 repositories |
+
+[主页提交记录 / Profile commits](https://github.com/DylanYeung0929/DylanYeung0929/commits/main/) · [公开仓库 / Public repositories](https://github.com/DylanYeung0929?tab=repositories)
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;v=1" />
-  <img width="49%" alt="DylanYeung0929's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;hide_border=true&amp;v=1" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;v=20261028" />
+  <img width="49%" alt="DylanYeung0929's GitHub statistics" src="https://github-stats-extended.vercel.app/api?username=DylanYeung0929&amp;show_icons=true&amp;hide_border=true&amp;v=20261028" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;theme=github_dark&amp;hide_border=true&amp;v=1" />
-  <img width="49%" alt="Repository language distribution" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;hide_border=true&amp;v=1" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;theme=github_dark&amp;hide_border=true&amp;v=20261028" />
+  <img width="49%" alt="Repository language distribution" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DylanYeung0929&amp;layout=compact&amp;langs_count=8&amp;card_width=467&amp;hide_border=true&amp;v=20261028" />
 </picture>
 
 <sub>仓库代码语言分布 / Language distribution across repositories</sub>
 
+<sub>贡献类型分别统计提交、议题、拉取请求与评审 / Contributions distinguish commits, issues, pull requests and reviews</sub>
+
 <br><br>
 
 <a href="https://github.com/DylanYeung0929?tab=overview">
-  <img width="100%" src="https://ghchart.rshah.org/0f766e/DylanYeung0929?v=1" alt="DylanYeung0929's GitHub contribution calendar" />
+  <img width="100%" src="https://ghchart.rshah.org/0f766e/DylanYeung0929?v=20261028" alt="DylanYeung0929's GitHub contribution calendar" />
 </a>
 
 *保持好奇，持续创造。 / Stay curious, keep creating.*
