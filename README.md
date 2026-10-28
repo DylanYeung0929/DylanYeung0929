@@ -23,9 +23,26 @@ Embedded Systems · Neural Networks · Edge AI
 
 I'm a third-year Robotics Engineering student at Beijing Institute of Technology. I work across robot perception (vision, tactile sensing, and LiDAR), embedded systems, reinforcement learning, and neural networks.
 
-Recent work spans quadruped robot localization, image super-resolution on edge AI hardware, and 3D reconstruction.
+My projects span quadruped robot localization, image super-resolution on edge AI hardware, 3D reconstruction, and sensor-to-cloud applications. My latest public tool, DSH Session Bridge, provides a CLI and plugin for working across DeepSeek Harness sessions.
 
 ### Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>NEW · DEVELOPER TOOLS</sub>
+      <h3><a href="https://github.com/DylanYeung0929/dsh-session-bridge">DSH Session Bridge ↗</a></h3>
+      <p>A CLI and DSH plugin to list sessions, read transcripts, send messages, and chat across DeepSeek Harness conversations.</p>
+      <sub>PYTHON · CLI · LOCAL RPC</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>HARDWARE TO CLOUD · FULL STACK</sub>
+      <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-merchant">Tipsy Imprint Platform ↗</a></h3>
+      <p>ESP32-C6 sensor firmware, a Python BLE bridge, Cloudflare telemetry APIs, and a React merchant dashboard for drinking-behavior events and AI analysis.</p>
+      <sub>ESP32 · BLE · REACT · CLOUDFLARE D1</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -59,14 +76,14 @@ Recent work spans quadruped robot localization, image super-resolution on edge A
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/haocheng-homepage-v2">Portfolio v2 ↗</a></h3>
-      <p>A dark editorial personal site with six sections and a photo curation backend.</p>
+      <h3><a href="https://github.com/DylanYeung0929/portfolio-framework">Portfolio Framework ↗</a></h3>
+      <p>A runnable public portfolio template with dark editorial layouts, chapter transitions, language and theme controls, and Cloudflare-backed curation.</p>
       <sub>REACT · TYPESCRIPT</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-web">Tipsy Imprint ↗</a></h3>
-      <p>An interactive product site connecting coaster sensing with generative AI.</p>
-      <sub>INTERACTIVE WEB · GENERATIVE AI</sub>
+      <p>A product website with cinematic scroll storytelling, 3D product presentation, and an imprint-generation demo.</p>
+      <sub>GSAP · THREE.JS · INTERACTIVE WEB</sub>
     </td>
   </tr>
 </table>
@@ -82,9 +99,26 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 
 我是北京理工大学机器人工程专业大三学生，关注机器人视觉、触觉与激光雷达感知，以及嵌入式系统、强化学习和神经网络。
 
-近期项目涵盖四足机器人场地定位、图像超分辨率模型的边缘 AI 部署，以及三维重建。
+项目涵盖四足机器人场地定位、图像超分辨率模型的边缘 AI 部署、三维重建，以及传感器到云端的全栈应用。最新公开的 DSH Session Bridge 提供 CLI 与插件，用于跨 DeepSeek Harness 会话工作。
 
 ### 精选项目
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>最新开源 · 开发者工具</sub>
+      <h3><a href="https://github.com/DylanYeung0929/dsh-session-bridge">DSH Session Bridge ↗</a></h3>
+      <p>通过 CLI 与 DSH 插件列出会话、读取转录、发送消息，并在 DeepSeek Harness 对话间进行交互。</p>
+      <sub>PYTHON · CLI · 本地 RPC</sub>
+    </td>
+    <td width="50%" valign="top">
+      <sub>硬件到云端 · 全栈平台</sub>
+      <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-merchant">微醺印记数据平台 ↗</a></h3>
+      <p>连接 ESP32-C6 传感器固件、Python BLE 桥接、Cloudflare 遥测接口与 React 商家后台，展示饮酒行为事件及 AI 分析。</p>
+      <sub>ESP32 · BLE · REACT · CLOUDFLARE D1</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -118,14 +152,14 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/haocheng-homepage-v2">Portfolio v2 ↗</a></h3>
-      <p>深色编辑部风格的个人网站，包含六个展示板块和照片策展后台。</p>
+      <h3><a href="https://github.com/DylanYeung0929/portfolio-framework">个人作品集框架 ↗</a></h3>
+      <p>可直接运行的公开作品集模板，包含深色编辑部排版、章节过渡、语言与主题切换，以及 Cloudflare 照片策展后台。</p>
       <sub>REACT · TYPESCRIPT</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-web">Tipsy Imprint ↗</a></h3>
-      <p>将杯底传感与生成式 AI 结合的互动产品网站。</p>
-      <sub>交互网页 · 生成式 AI</sub>
+      <p>包含电影感滚动叙事、3D 产品展示与印记生成演示的产品官网。</p>
+      <sub>GSAP · THREE.JS · 交互网页</sub>
     </td>
   </tr>
 </table>
@@ -142,6 +176,8 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 | 三维重建 / 3D reconstruction | [PGSR · Reconstruction experiments](https://github.com/DylanYeung0929/PGSR-reconstruction) |
 | 神经网络与边缘 AI / Neural networks & edge AI | [SwinIR on AirBox · Super-resolution deployment](https://github.com/DylanYeung0929/SwinIR-AirBox-SuperResolution) |
 | 量子—经典混合学习 / Hybrid quantum–classical learning | [Quantum Research · Classification & regression](https://github.com/DylanYeung0929/quantum-research) |
+| 传感器与云端应用 / Sensor-to-cloud applications | [Tipsy Imprint · Firmware, BLE bridge & merchant dashboard](https://github.com/DylanYeung0929/tipsy-imprint-merchant) |
+| 开发者工具 / Developer tools | [DSH Session Bridge · CLI & plugin](https://github.com/DylanYeung0929/dsh-session-bridge) |
 
 ### Mathematical Modeling
 
@@ -169,6 +205,9 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 ![PCL](https://img.shields.io/badge/PCL-0F766E?style=flat-square)
 ![Eigen](https://img.shields.io/badge/Eigen-00599C?style=flat-square)
 ![Sophon SDK](https://img.shields.io/badge/Sophon_SDK-0F766E?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 
 #### 神经网络与数据分析 / Neural Networks & Data Analysis
 
@@ -186,12 +225,15 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-0E100F?style=flat-square&logo=gsap&logoColor=88CE02)
 ![Motion](https://img.shields.io/badge/Motion-FFF312?style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
 #### 部署与工程工具 / Deployment & Engineering Tools
 
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
 ![Cloudflare KV](https://img.shields.io/badge/Cloudflare_KV-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Git LFS](https://img.shields.io/badge/Git_LFS-F05032?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
