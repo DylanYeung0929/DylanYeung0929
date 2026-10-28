@@ -23,9 +23,20 @@ Embedded Systems · Neural Networks · Edge AI
 
 I'm a third-year Robotics Engineering student at Beijing Institute of Technology. I work across robot perception (vision, tactile sensing, and LiDAR), embedded systems, reinforcement learning, and neural networks.
 
-My projects span quadruped robot localization, image super-resolution on edge AI hardware, 3D reconstruction, and sensor-to-cloud applications. My latest public tool, DSH Session Bridge, provides a CLI and plugin for working across DeepSeek Harness sessions.
+My projects span quadruped robot localization, image super-resolution on edge AI hardware, 3D reconstruction, and sensor-to-cloud applications. Recent public tools include Linglong Robot Toolkit for offline robot planning and feedback checks, and DSH Session Bridge for working across DeepSeek Harness sessions.
 
 ### Selected work
+
+<table>
+  <tr>
+    <td valign="top">
+      <sub>NEW · OFFLINE ROBOTICS TOOLKIT</sub>
+      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">Linglong Robot Toolkit ↗</a></h3>
+      <p>An independent toolkit for position-only smoothstep trajectories, fail-closed joint feedback checks, and synthetic offline demos. No hardware transport or deployment settings are included.</p>
+      <sub>PYTHON · TRAJECTORY PLANNING · FEEDBACK VALIDATION · MIT</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -99,9 +110,20 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 
 我是北京理工大学机器人工程专业大三学生，关注机器人视觉、触觉与激光雷达感知，以及嵌入式系统、强化学习和神经网络。
 
-项目涵盖四足机器人场地定位、图像超分辨率模型的边缘 AI 部署、三维重建，以及传感器到云端的全栈应用。最新公开的 DSH Session Bridge 提供 CLI 与插件，用于跨 DeepSeek Harness 会话工作。
+项目涵盖四足机器人场地定位、图像超分辨率模型的边缘 AI 部署、三维重建，以及传感器到云端的全栈应用。近期公开工具包括灵龙机器人的离线规划与反馈检查工具，以及用于跨 DeepSeek Harness 会话工作的 DSH Session Bridge。
 
 ### 精选项目
+
+<table>
+  <tr>
+    <td valign="top">
+      <sub>最新开源 · 机器人离线工具</sub>
+      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">灵龙机器人工具库 ↗</a></h3>
+      <p>独立的离线工具层，提供三维位置 smoothstep 轨迹、遇异常即拒绝的关节反馈检查与合成数据演示。公开版本不包含实机通信或现场配置。</p>
+      <sub>PYTHON · 轨迹规划 · 反馈检查 · MIT</sub>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -173,6 +195,7 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 | 方向 / Focus | 项目入口 / Explore |
 | --- | --- |
 | 机器人感知与嵌入式 / Robot perception & embedded systems | [四足场地定位 · ROS 2, LiDAR, FAST-LIO2, NDT](https://github.com/DylanYeung0929/quadruped-field-localization) |
+| 机器人离线工具 / Offline robotics tools | [Linglong Robot Toolkit · Trajectory planning & feedback checks](https://github.com/DylanYeung0929/linglong-robot-toolkit) |
 | 三维重建 / 3D reconstruction | [PGSR · Reconstruction experiments](https://github.com/DylanYeung0929/PGSR-reconstruction) |
 | 神经网络与边缘 AI / Neural networks & edge AI | [SwinIR on AirBox · Super-resolution deployment](https://github.com/DylanYeung0929/SwinIR-AirBox-SuperResolution) |
 | 量子—经典混合学习 / Hybrid quantum–classical learning | [Quantum Research · Classification & regression](https://github.com/DylanYeung0929/quantum-research) |
