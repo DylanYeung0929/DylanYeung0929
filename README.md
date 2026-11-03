@@ -25,7 +25,7 @@ I'm a third-year Robotics Engineering student at Beijing Institute of Technology
 
 ### Selected work
 
-Ordered by the engineering scope visible in each repository: system integration, hardware and runtime dependencies. Categories are approximate, with no strict ranking within a group; research difficulty and individual contribution are not inferred from repository size.
+Grouped by engineering scope, including system integration, hardware and runtime dependencies. The order reflects presentation priorities; research difficulty and individual contribution are not inferred from repository size.
 
 #### 01 · Cross-domain systems & deployment
 
@@ -56,7 +56,32 @@ Ordered by the engineering scope visible in each repository: system integration,
   </tr>
 </table>
 
-#### 02 · Applications & developer tools
+#### 02 · Focused tools & research archives
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/quantum-research">Quantum Research ↗</a></h3>
+      <p>Classical neural-network baselines and hybrid quantum–classical research records for classification and regression.</p>
+      <sub>NEURAL NETWORKS · RESEARCH ARCHIVE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">Linglong Robot Toolkit ↗</a></h3>
+      <p>Position-only trajectory planning, feedback checks and synthetic demos; no hardware transport is included.</p>
+      <sub>PYTHON · OFFLINE · FEEDBACK</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/awesome-dsh-plugin">Awesome DSH Plugin ↗</a></h3>
+      <p>A fork of the community's curated DeepSeek Harness plugin list.</p>
+      <sub>CURATED LIST · FORK</sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+#### 03 · Applications & developer tools
 
 <table>
   <tr>
@@ -85,31 +110,6 @@ Ordered by the engineering scope visible in each repository: system integration,
   </tr>
 </table>
 
-#### 03 · Focused tools & research archives
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/quantum-research">Quantum Research ↗</a></h3>
-      <p>Classical neural-network baselines and hybrid quantum–classical research records for classification and regression.</p>
-      <sub>NEURAL NETWORKS · RESEARCH ARCHIVE</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">Linglong Robot Toolkit ↗</a></h3>
-      <p>Position-only trajectory planning, feedback checks and synthetic demos; no hardware transport is included.</p>
-      <sub>PYTHON · OFFLINE · FEEDBACK</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/awesome-dsh-plugin">Awesome DSH Plugin ↗</a></h3>
-      <p>A fork of the community's curated DeepSeek Harness plugin list.</p>
-      <sub>CURATED LIST · FORK</sub>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
-
 More: [mathematical modeling](#mathematical-modeling) · [light portfolio edition](https://github.com/DylanYeung0929/haocheng-homepage) · [all repositories](https://github.com/DylanYeung0929?tab=repositories)
 
 </details>
@@ -123,7 +123,7 @@ More: [mathematical modeling](#mathematical-modeling) · [light portfolio editio
 
 ### 精选项目
 
-按仓库可见的工程范围排序，主要参考系统集成、硬件及运行依赖。同层不做精确排名；研究难度和个人贡献不能仅凭仓库规模判断。
+按工程范围分组，参考系统集成、硬件及运行依赖；展示顺序兼顾内容侧重，研究难度和个人贡献不能仅凭仓库规模判断。
 
 #### 01 · 跨领域系统与部署
 
@@ -154,7 +154,32 @@ More: [mathematical modeling](#mathematical-modeling) · [light portfolio editio
   </tr>
 </table>
 
-#### 02 · 应用系统与开发工具
+#### 02 · 专题工具与研究归档
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/quantum-research">量子机器学习研究 ↗</a></h3>
+      <p>空气质量分类与保险费用回归的经典神经网络基线、混合模型报告及实验记录。</p>
+      <sub>NEURAL NETWORKS · RESEARCH ARCHIVE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">灵龙机器人离线工具 ↗</a></h3>
+      <p>位置轨迹规划、反馈检查与合成数据演示；公开版不含实机通信。</p>
+      <sub>PYTHON · OFFLINE · FEEDBACK</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/awesome-dsh-plugin">DSH 插件精选列表 ↗</a></h3>
+      <p>社区 DeepSeek Harness 插件精选列表的 fork。</p>
+      <sub>CURATED LIST · FORK</sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+#### 03 · 应用系统与开发工具
 
 <table>
   <tr>
@@ -180,31 +205,6 @@ More: [mathematical modeling](#mathematical-modeling) · [light portfolio editio
       <p>包含滚动叙事、3D 产品展示与印记生成演示的产品官网。</p>
       <sub>GSAP · THREE.JS · INTERACTIVE WEB</sub>
     </td>
-  </tr>
-</table>
-
-#### 03 · 专题工具与研究归档
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/quantum-research">量子机器学习研究 ↗</a></h3>
-      <p>空气质量分类与保险费用回归的经典神经网络基线、混合模型报告及实验记录。</p>
-      <sub>NEURAL NETWORKS · RESEARCH ARCHIVE</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">灵龙机器人离线工具 ↗</a></h3>
-      <p>位置轨迹规划、反馈检查与合成数据演示；公开版不含实机通信。</p>
-      <sub>PYTHON · OFFLINE · FEEDBACK</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/awesome-dsh-plugin">DSH 插件精选列表 ↗</a></h3>
-      <p>社区 DeepSeek Harness 插件精选列表的 fork。</p>
-      <sub>CURATED LIST · FORK</sub>
-    </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
