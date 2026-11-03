@@ -21,85 +21,96 @@ Embedded Systems · Neural Networks · Edge AI
 
 ### A little about me
 
-I'm a third-year Robotics Engineering student at Beijing Institute of Technology. I work across robot perception (vision, tactile sensing, and LiDAR), embedded systems, reinforcement learning, and neural networks.
-
-My projects span quadruped robot localization, image super-resolution on edge AI hardware, 3D reconstruction, and sensor-to-cloud applications. Recent public tools include Linglong Robot Toolkit for offline robot planning and feedback checks, and DSH Session Bridge for working across DeepSeek Harness sessions.
+I'm a third-year Robotics Engineering student at Beijing Institute of Technology. I work across robot perception, embedded systems, reinforcement learning and neural networks, with projects spanning edge AI, 3D reconstruction and interactive software.
 
 ### Selected work
 
-<table>
-  <tr>
-    <td valign="top">
-      <sub>NEW · OFFLINE ROBOTICS TOOLKIT</sub>
-      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">Linglong Robot Toolkit ↗</a></h3>
-      <p>An independent toolkit for position-only smoothstep trajectories, fail-closed joint feedback checks, and synthetic offline demos. No hardware transport or deployment settings are included.</p>
-      <sub>PYTHON · TRAJECTORY PLANNING · FEEDBACK VALIDATION · MIT</sub>
-    </td>
-  </tr>
-</table>
+Ordered by the engineering scope visible in each repository: system integration, hardware and runtime dependencies. Categories are approximate, with no strict ranking within a group; research difficulty and individual contribution are not inferred from repository size.
+
+#### 01 · Cross-domain systems & deployment
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>NEW · DEVELOPER TOOLS</sub>
-      <h3><a href="https://github.com/DylanYeung0929/dsh-session-bridge">DSH Session Bridge ↗</a></h3>
-      <p>A CLI and DSH plugin to list sessions, read transcripts, send messages, and chat across DeepSeek Harness conversations.</p>
-      <sub>PYTHON · CLI · LOCAL RPC</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>HARDWARE TO CLOUD · FULL STACK</sub>
       <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-merchant">Tipsy Imprint Platform ↗</a></h3>
-      <p>ESP32-C6 sensor firmware, a Python BLE bridge, Cloudflare telemetry APIs, and a React merchant dashboard for drinking-behavior events and AI analysis.</p>
-      <sub>ESP32 · BLE · REACT · CLOUDFLARE D1</sub>
+      <p>ESP32-C6 firmware, BLE bridging, cloud telemetry and a React merchant dashboard.</p>
+      <sub>ESP32 · BLE · REACT · D1</sub>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td width="50%" valign="top">
-      <sub>FEATURED · FIELD ROBOTICS</sub>
       <h3><a href="https://github.com/DylanYeung0929/quadruped-field-localization">Quadruped Field Localization ↗</a></h3>
-      <p>A ROS 2 source and configuration collection for quadruped robot field localization: MID-360 LiDAR and Hipnuc IMU/GNSS drivers, FAST-LIO2 odometry and mapping, and NDT localization against a known map.</p>
-      <sub>ROS 2 · C++ · LiDAR · LOCALIZATION</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>RESEARCH ARCHIVE · HYBRID LEARNING</sub>
-      <h3><a href="https://github.com/DylanYeung0929/quantum-research">Quantum Research ↗</a></h3>
-      <p>Classical neural network baselines and hybrid quantum–classical research materials for air quality classification and medical insurance cost regression.</p>
-      <sub>NEURAL NETWORKS · QUANTUM MACHINE LEARNING</sub>
+      <p>ROS 2 sensor drivers, FAST-LIO2 mapping and NDT localization against a known map.</p>
+      <sub>ROS 2 · LIDAR · LOCALIZATION</sub>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DylanYeung0929/SwinIR-AirBox-SuperResolution">SwinIR on AirBox ↗</a></h3>
-      <p>Image super-resolution on SOPHON BM1684X edge hardware, from a baseline deployment pipeline to DVFS-adaptive experiments.</p>
+      <p>SwinIR image super-resolution deployment and experiments on SOPHON BM1684X edge hardware.</p>
       <sub>EDGE AI · COMPUTER VISION</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DylanYeung0929/PGSR-reconstruction">PGSR Reconstruction ↗</a></h3>
-      <p>Experiments and reproduction scripts for PGSR-based 3D reconstruction.</p>
-      <sub>3D VISION · RESEARCH</sub>
+      <p>Reproduction scripts and experiments built around the upstream PGSR reconstruction project.</p>
+      <sub>3D VISION · REPRODUCTION</sub>
+    </td>
+  </tr>
+</table>
+
+#### 02 · Applications & developer tools
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/codex-pet-framework">Codex Pet for Claude Code ↗</a></h3>
+      <p>A macOS floating pet framework with session-aware animations, hooks and multi-session state.</p>
+      <sub>SWIFT · APPKIT · HOOKS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/dsh-session-bridge">DSH Session Bridge ↗</a></h3>
+      <p>A CLI and plugin for listing, reading, messaging and following DeepSeek Harness sessions.</p>
+      <sub>PYTHON · CLI · LOCAL RPC</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DylanYeung0929/portfolio-framework">Portfolio Framework ↗</a></h3>
-      <p>A runnable public portfolio template with dark editorial layouts, chapter transitions, language and theme controls, and Cloudflare-backed curation.</p>
-      <sub>REACT · TYPESCRIPT</sub>
+      <p>A runnable editorial portfolio template with chapter transitions, multilingual UI and Cloudflare-backed curation.</p>
+      <sub>REACT · TYPESCRIPT · CLOUDFLARE</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-web">Tipsy Imprint ↗</a></h3>
-      <p>A product website with cinematic scroll storytelling, 3D product presentation, and an imprint-generation demo.</p>
+      <p>A product website with scroll storytelling, 3D presentation and an imprint-generation demo.</p>
       <sub>GSAP · THREE.JS · INTERACTIVE WEB</sub>
     </td>
   </tr>
 </table>
 
-More to explore: [mathematical modeling](#mathematical-modeling) · [all repositories](https://github.com/DylanYeung0929?tab=repositories)
+#### 03 · Focused tools & research archives
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/quantum-research">Quantum Research ↗</a></h3>
+      <p>Classical neural-network baselines and hybrid quantum–classical research records for classification and regression.</p>
+      <sub>NEURAL NETWORKS · RESEARCH ARCHIVE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">Linglong Robot Toolkit ↗</a></h3>
+      <p>Position-only trajectory planning, feedback checks and synthetic demos; no hardware transport is included.</p>
+      <sub>PYTHON · OFFLINE · FEEDBACK</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/awesome-dsh-plugin">Awesome DSH Plugin ↗</a></h3>
+      <p>A fork of the community's curated DeepSeek Harness plugin list.</p>
+      <sub>CURATED LIST · FORK</sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+More: [mathematical modeling](#mathematical-modeling) · [light portfolio edition](https://github.com/DylanYeung0929/haocheng-homepage) · [all repositories](https://github.com/DylanYeung0929?tab=repositories)
 
 </details>
 
@@ -108,88 +119,98 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 
 ### 关于我
 
-我是北京理工大学机器人工程专业大三学生，关注机器人视觉、触觉与激光雷达感知，以及嵌入式系统、强化学习和神经网络。
-
-项目涵盖四足机器人场地定位、图像超分辨率模型的边缘 AI 部署、三维重建，以及传感器到云端的全栈应用。近期公开工具包括灵龙机器人的离线规划与反馈检查工具，以及用于跨 DeepSeek Harness 会话工作的 DSH Session Bridge。
+我是北京理工大学机器人工程专业大三学生，关注机器人感知、嵌入式系统、强化学习和神经网络，项目涵盖边缘 AI、三维重建与交互软件。
 
 ### 精选项目
 
-<table>
-  <tr>
-    <td valign="top">
-      <sub>最新开源 · 机器人离线工具</sub>
-      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">灵龙机器人工具库 ↗</a></h3>
-      <p>独立的离线工具层，提供三维位置 smoothstep 轨迹、遇异常即拒绝的关节反馈检查与合成数据演示。公开版本不包含实机通信或现场配置。</p>
-      <sub>PYTHON · 轨迹规划 · 反馈检查 · MIT</sub>
-    </td>
-  </tr>
-</table>
+按仓库可见的工程范围排序，主要参考系统集成、硬件及运行依赖。同层不做精确排名；研究难度和个人贡献不能仅凭仓库规模判断。
+
+#### 01 · 跨领域系统与部署
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>最新开源 · 开发者工具</sub>
-      <h3><a href="https://github.com/DylanYeung0929/dsh-session-bridge">DSH Session Bridge ↗</a></h3>
-      <p>通过 CLI 与 DSH 插件列出会话、读取转录、发送消息，并在 DeepSeek Harness 对话间进行交互。</p>
-      <sub>PYTHON · CLI · 本地 RPC</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>硬件到云端 · 全栈平台</sub>
       <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-merchant">微醺印记数据平台 ↗</a></h3>
-      <p>连接 ESP32-C6 传感器固件、Python BLE 桥接、Cloudflare 遥测接口与 React 商家后台，展示饮酒行为事件及 AI 分析。</p>
-      <sub>ESP32 · BLE · REACT · CLOUDFLARE D1</sub>
+      <p>ESP32-C6 固件、BLE 桥接、云端遥测与 React 商家数据后台。</p>
+      <sub>ESP32 · BLE · REACT · D1</sub>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td width="50%" valign="top">
-      <sub>重点项目 · 场地机器人</sub>
       <h3><a href="https://github.com/DylanYeung0929/quadruped-field-localization">四足机器人场地定位 ↗</a></h3>
-      <p>汇集四足机器人场地定位所需的 ROS 2 源码与配置：MID-360 激光雷达和 Hipnuc IMU/GNSS 驱动、FAST-LIO2 里程计与建图，以及基于已知地图的 NDT 定位。</p>
-      <sub>ROS 2 · C++ · 激光雷达 · 定位</sub>
-    </td>
-    <td width="50%" valign="top">
-      <sub>研究归档 · 混合机器学习</sub>
-      <h3><a href="https://github.com/DylanYeung0929/quantum-research">量子机器学习研究 ↗</a></h3>
-      <p>空气质量四分类与医疗保险费用回归的经典神经网络基线、量子—经典混合模型报告及实验记录。</p>
-      <sub>神经网络 · 量子机器学习</sub>
+      <p>ROS 2 传感器驱动、FAST-LIO2 建图与基于已知地图的 NDT 定位。</p>
+      <sub>ROS 2 · LIDAR · LOCALIZATION</sub>
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DylanYeung0929/SwinIR-AirBox-SuperResolution">SwinIR on AirBox ↗</a></h3>
-      <p>在算能 BM1684X 边缘硬件上部署 SwinIR 图像超分辨率模型，并开展 DVFS 自适应实验。</p>
-      <sub>边缘 AI · 计算机视觉</sub>
+      <p>在算能 BM1684X 边缘硬件上部署 SwinIR 超分辨率模型并开展实验。</p>
+      <sub>EDGE AI · COMPUTER VISION</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/PGSR-reconstruction">PGSR Reconstruction ↗</a></h3>
-      <p>基于 PGSR 的三维重建实验与复现脚本。</p>
-      <sub>三维视觉 · 研究实践</sub>
+      <h3><a href="https://github.com/DylanYeung0929/PGSR-reconstruction">PGSR 三维重建 ↗</a></h3>
+      <p>基于上游 PGSR 项目的三维重建实验与复现脚本。</p>
+      <sub>3D VISION · REPRODUCTION</sub>
+    </td>
+  </tr>
+</table>
+
+#### 02 · 应用系统与开发工具
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/codex-pet-framework">Codex Pet 桌宠框架 ↗</a></h3>
+      <p>macOS 悬浮桌宠框架，通过 hooks 关联会话状态，支持多会话与状态动画。</p>
+      <sub>SWIFT · APPKIT · HOOKS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/dsh-session-bridge">DSH Session Bridge ↗</a></h3>
+      <p>通过 CLI 与插件列出、读取、发送消息并实时跟随 DeepSeek Harness 会话。</p>
+      <sub>PYTHON · CLI · LOCAL RPC</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/DylanYeung0929/portfolio-framework">个人作品集框架 ↗</a></h3>
-      <p>可直接运行的公开作品集模板，包含深色编辑部排版、章节过渡、语言与主题切换，以及 Cloudflare 照片策展后台。</p>
-      <sub>REACT · TYPESCRIPT</sub>
+      <p>可运行的编辑部风作品集模板，包含章节过渡、多语言界面与 Cloudflare 策展后台。</p>
+      <sub>REACT · TYPESCRIPT · CLOUDFLARE</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-web">Tipsy Imprint ↗</a></h3>
-      <p>包含电影感滚动叙事、3D 产品展示与印记生成演示的产品官网。</p>
-      <sub>GSAP · THREE.JS · 交互网页</sub>
+      <h3><a href="https://github.com/DylanYeung0929/tipsy-imprint-web">微醺印记产品官网 ↗</a></h3>
+      <p>包含滚动叙事、3D 产品展示与印记生成演示的产品官网。</p>
+      <sub>GSAP · THREE.JS · INTERACTIVE WEB</sub>
     </td>
   </tr>
 </table>
 
-继续了解：[数学建模](#mathematical-modeling) · [全部仓库](https://github.com/DylanYeung0929?tab=repositories)
+#### 03 · 专题工具与研究归档
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/quantum-research">量子机器学习研究 ↗</a></h3>
+      <p>空气质量分类与保险费用回归的经典神经网络基线、混合模型报告及实验记录。</p>
+      <sub>NEURAL NETWORKS · RESEARCH ARCHIVE</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/linglong-robot-toolkit">灵龙机器人离线工具 ↗</a></h3>
+      <p>位置轨迹规划、反馈检查与合成数据演示；公开版不含实机通信。</p>
+      <sub>PYTHON · OFFLINE · FEEDBACK</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/DylanYeung0929/awesome-dsh-plugin">DSH 插件精选列表 ↗</a></h3>
+      <p>社区 DeepSeek Harness 插件精选列表的 fork。</p>
+      <sub>CURATED LIST · FORK</sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
+
+更多内容：[数学建模](#mathematical-modeling) · [浅色版个人网站](https://github.com/DylanYeung0929/haocheng-homepage) · [全部仓库](https://github.com/DylanYeung0929?tab=repositories)
 
 </details>
-
 ### 研究导航 / Research Map
 
 | 方向 / Focus | 项目入口 / Explore |
@@ -201,6 +222,7 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 | 量子—经典混合学习 / Hybrid quantum–classical learning | [Quantum Research · Classification & regression](https://github.com/DylanYeung0929/quantum-research) |
 | 传感器与云端应用 / Sensor-to-cloud applications | [Tipsy Imprint · Firmware, BLE bridge & merchant dashboard](https://github.com/DylanYeung0929/tipsy-imprint-merchant) |
 | 开发者工具 / Developer tools | [DSH Session Bridge · CLI & plugin](https://github.com/DylanYeung0929/dsh-session-bridge) |
+| 桌面应用 / Desktop applications | [Codex Pet · macOS floating companion framework](https://github.com/DylanYeung0929/codex-pet-framework) |
 
 ### Mathematical Modeling
 
@@ -221,6 +243,7 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 #### 机器人与嵌入式 / Robotics & Embedded Systems
 
@@ -267,10 +290,11 @@ More to explore: [mathematical modeling](#mathematical-modeling) · [all reposit
 
 ### 开发动态 / GitHub Activity
 
-近期更新 / Recent updates · 2026-10-28
+近期更新 / Recent updates · 2026-11-03
 
 | 项目 / Project | 更新 / Update |
 | --- | --- |
+| [Codex Pet for Claude Code](https://github.com/DylanYeung0929/codex-pet-framework) | 公开 macOS 桌宠框架与多会话状态动画 / Published a macOS pet framework with multi-session state animations |
 | [Linglong Robot Toolkit](https://github.com/DylanYeung0929/linglong-robot-toolkit) | 发布独立的离线轨迹规划、反馈检查与合成数据演示 / Published offline planning, feedback checks and synthetic demos |
 | [DSH Session Bridge](https://github.com/DylanYeung0929/dsh-session-bridge) | 整理跨会话工具的 GitHub Actions 配置 / Organized the session tool's GitHub Actions configuration |
 | [公开仓库授权 / Public repository licensing](https://github.com/DylanYeung0929/portfolio-framework/commit/b36bd5a) | 为 10 个仓库补充 MIT 许可证与原创内容适用范围说明 / Added MIT licenses and original-content scope notices to 10 repositories |
